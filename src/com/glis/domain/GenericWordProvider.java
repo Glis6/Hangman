@@ -15,7 +15,16 @@ public class GenericWordProvider implements WordProvider {
      * The words that can be given to guess.
      */
     private final static Collection<String> WORDS = Arrays.asList(
-            "lol"
+            "baguette",
+            "chanson",
+            "parapluie",
+            "avion",
+            "capital",
+            "canard",
+            "amie",
+            "elephant",
+            "eau",
+            "poisson"
     );
 
     /**
